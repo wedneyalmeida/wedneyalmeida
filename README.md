@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá!Eu sou Wedney Almeida 👋<br><br>  
 
 #### Sou apaixonado por tecnologia 🖥️, inovação 👨‍💻 e games 🎮, atualmente estou cursando Desenvolvimento Back-End pela Cubos Academy e finalizando a minha graduação na área tecnológica de Gestão em Tecnologia da Informação pela Faculdade Estácio de Sá em Salvador-BA onde moro atualmente.<br>
