@@ -3,7 +3,7 @@
 #### Sou apaixonado por tecnologia 🖥️, inovação 👨‍💻 e games 🎮, atualmente estou cursando Desenvolvimento Back-End pela Cubos Academy e finalizando a minha graduação na área tecnológica de Gestão em Tecnologia da Informação pela Faculdade Estácio de Sá em Salvador-BA onde moro atualmente.<br>
 ### Sejam bem-vindos, chega mais!<br><br> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedney-almeida) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wedney.p/)<br> 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedney-almeida)<br> 
 
 
 ![Wedney GitHub stats](https://github-readme-stats.vercel.app/api?username=wedneyalmeida&show_icons=true&theme=dracula)
